@@ -25,6 +25,6 @@ Restaurant-Order-Analysis/
 │   ├── ddl.sql                                # Script for table creation and data insertion
 │   ├── analysis.sql                           # Script for data analysis
 │
-├── findings.pdf                               # Key findings from analysis
+├── README.md                                  # Project overview
 │
-└── README.md                                  # Project overview
+└── findings.pdf                               # Key findings from analysis
