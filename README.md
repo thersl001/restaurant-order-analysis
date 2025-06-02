@@ -16,6 +16,11 @@ It utilizes two datasets: `menu_items` and `order_details`, and creates a joined
 
 ---
 
+## 🛠️ Tools Used
+- MySQL
+
+---
+
 ## 📂 Project Structure
 
 ```
