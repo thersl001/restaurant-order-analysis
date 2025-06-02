@@ -8,21 +8,23 @@ It utilizes two datasets: `menu_items` and `order_details`, and creates a joined
 
 ## 📊 Key Analyses Performed
 - Total food items and category-wise distribution
-- Most and least expensive items overall and by cuisine
+- Most and least expensive items overall and within italian category
 - Duration between first and last order
+- Least and most sold food item
 - Orders with high item counts (e.g., >12 items)
 - Top 5 highest bills by customer
-- Most frequently ordered items
 
 ---
 
 ## 📂 Project Structure
 
-```Restaurant-Order-Analysis/
-├── scripts.sql
-|   └── ddl.sql                                # Script for table creation and data insertion
-|   └── analysis.sql                           # Script for data analysis
-|
+```
+Restaurant-Order-Analysis/
+│
+├── scripts.sql/
+│   ├── ddl.sql                                # Script for table creation and data insertion
+│   ├── analysis.sql                           # Script for data analysis
+│
 ├── findings.pdf                               # Key findings from analysis
-|
-├── README.md                                  # Project overview
+│
+└── README.md                                  # Project overview
