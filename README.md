@@ -1,4 +1,4 @@
-#🍽️ Restaurant Order Analysis using SQL
+#  🍽️ Restaurant Order Analysis using SQL 
 
 ## 📌 Project Overview
 This project uses SQL to analyze food order data from a restaurant.
